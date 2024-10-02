@@ -1,0 +1,7 @@
+C:\Users\Zalen\source\repos\ControllersUnitTesting\ControllersUnitTesting\obj\Debug\net8.0\ControllersUnitTesting.csproj.AssemblyReference.cache
+C:\Users\Zalen\source\repos\ControllersUnitTesting\ControllersUnitTesting\obj\Debug\net8.0\ControllersUnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zalen\source\repos\ControllersUnitTesting\ControllersUnitTesting\obj\Debug\net8.0\ControllersUnitTesting.AssemblyInfoInputs.cache
+C:\Users\Zalen\source\repos\ControllersUnitTesting\ControllersUnitTesting\obj\Debug\net8.0\ControllersUnitTesting.AssemblyInfo.cs
+C:\Users\Zalen\source\repos\ControllersUnitTesting\ControllersUnitTesting\obj\Debug\net8.0\ControllersUnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\Zalen\source\repos\ControllersUnitTesting\ControllersUnitTesting\obj\Debug\net8.0\ControllersUnitTesting.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Zalen\source\repos\ControllersUnitTesting\ControllersUnitTesting\obj\Debug\net8.0\ControllersUnitTesting.MvcApplicationPartsAssemblyInfo.cache
